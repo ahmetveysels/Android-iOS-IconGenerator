@@ -47,6 +47,9 @@ size835x835S2FileName = "Icon-App-83.5x83.5@2x"
 size1024x1024S1 = 1024, 1024
 size1024x1024S1FileName = "ItunesArtwork@1x"
 
+size1024x1024S1 = 1024, 1024
+size1024x1024S1FileName = "ItunesArtwork@2x"
+
 # AnaKlasöre
 size512x512Ana = 512, 512
 size512x512AnaFileName = "iTunesArtwork@1x"
